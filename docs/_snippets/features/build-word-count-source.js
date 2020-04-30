@@ -5,6 +5,8 @@
 
 /* globals window */
 
+// foo
+
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic/src/ckeditor';
 import BalloonEditor from '@ckeditor/ckeditor5-build-balloon/src/ckeditor';
 
