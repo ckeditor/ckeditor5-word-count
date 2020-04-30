@@ -5,6 +5,8 @@
 
 /* global HTMLElement, setTimeout, document */
 
+// foo
+
 import WordCount from '../src/wordcount';
 
 import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph';
